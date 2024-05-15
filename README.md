@@ -1,0 +1,2 @@
+# Efficient-Nets-and-their-Fuzzy-Ensemble-An-Approach-for-Skin-Cancer-Classification
+In this paper we proposed a novel Choquet Fuzzy Ensemble of reward penalized Efficient-Nets for multi-class skin cancer classification.The base classifiers of the architecture are trained with the novel macro F1 score-based rewarding technique to handle the class imbalance of International Skin Imaging Collaboration (ISIC) data.
